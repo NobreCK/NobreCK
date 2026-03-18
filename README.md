@@ -1,4 +1,4 @@
-## Desenvolvedor em Evolução | 14 anos | Python & Lua
+<h2>Desenvolvedor em Evolução | 14 anos | Python & Lua<h2> 
 
 <table>
   <tr>
@@ -7,10 +7,7 @@
   </tr>
 </table>
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NobreCK&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NobreCK&layout=compact&langs_count=7&theme=dark"/>
-</p>
+
 
 <p align="left">
   <a href="https://discord.com/users/nobre_.ck" target="_blank">
