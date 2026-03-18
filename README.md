@@ -1,13 +1,18 @@
-<h2>Desenvolvedor em Evolução | 14 anos | Python & Lua<h2> 
+# Olá, eu sou o Erick (NobreCK)! 👋
 
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" vspace="10" width="40" alt="Python" /><br /><b>Python</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" vspace="10" width="40" alt="Lua" /><br /><b>Lua</b></td>
-  </tr>
-</table>
+### 🚀 Desenvolvedor em Evolução | 14 anos | Python & Lua
 
+Atualmente estou focado em aprender lógica de programação, consumo de APIs e automação. Apaixonado por basquete e tecnologia.
 
+---
+
+### 🛠️ Tecnologias que estou estudando:
+- 🐍 **Python:** Desenvolvimento de scripts e integração com APIs.
+- 🌙 **Lua:** Lógica de programação e scripts de jogos.
+
+---
+
+### 🌐 Conecte-se Comigo
 
 <p align="left">
   <a href="https://discord.com/users/nobre_.ck" target="_blank">
