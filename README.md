@@ -1,8 +1,8 @@
 # Olá, eu sou o Erick (NobreCK)! 👋
 
-### 🚀 Desenvolvedor em Evolução | 14 anos | Python & Lua
+###  Desenvolvedor em Evolução | 14 anos | Python & Lua
 
-Atualmente estou focado em aprender lógica de programação, consumo de APIs e automação. Apaixonado por basquete e tecnologia.
+Atualmente estou focado em aprender lógica de programação, consumo de APIs e automação. Apaixonado por tecnologia.
 
 ---
 
@@ -12,7 +12,7 @@ Atualmente estou focado em aprender lógica de programação, consumo de APIs e 
 
 ---
 
-### 🌐 Conecte-se Comigo
+###  Conecte-se Comigo
 
 <p align="left">
   <a href="https://discord.com/users/nobre_.ck" target="_blank">
