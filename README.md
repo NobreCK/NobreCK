@@ -4,8 +4,6 @@
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" vspace="10" width="40" alt="Python" /><br /><b>Python</b></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" vspace="10" width="40" alt="Lua" /><br /><b>Lua</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" vspace="10" width="40" alt="Windows" /><br /><b>Windows</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" vspace="10" width="40" alt="VS Code" /><br /><b>VS Code</b></td>
   </tr>
 </table>
 
