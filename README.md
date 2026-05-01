@@ -12,7 +12,7 @@ Atualmente estou focado em aprender lógica de programação, consumo de APIs e 
 
 ---
 
-###  Contacte-me comigo
+###  Contacte-me 
 
 <p align="left">
   <a href="https://discord.com/users/nobre_.ck" target="_blank">
