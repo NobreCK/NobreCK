@@ -7,7 +7,7 @@ Atualmente estou focado em aprender lógica de programação, consumo de APIs e 
 ---
 
 ### 🛠️ Tecnologias que estou estudando:
-- 🐍 **Python:** Lógica de programação, fluxo de dados, banco de dados.
+- 🐍 **Python:** Lógica de programação, fluxo e banco de dados.
 - 🌙 **Lua:** Lógica de programação e scripts de jogos.
 
 ---
